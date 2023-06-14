@@ -1,6 +1,6 @@
 # Pyramid-Triangle-Pattern
 //Pyramid-Triangle-Pattern
-let rows = 5;
+let rows = 10;
 
 let pattern = "";
 
@@ -12,7 +12,7 @@ for (let i = 1; i <= rows; i++) {
    }
 
    // Inner Loop - II -> prints stars
-   for (let num = 1; num <= 2 * i - 1; num++) {
+   for (let k = 1; k <= 2 * i - 1; k++) {
       pattern += "*";
    }
    pattern += "\n";
