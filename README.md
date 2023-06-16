@@ -1,1 +1,1 @@
-Pyramid-Triangle-Pattern
+PYRAMID-TRIANGLE-PATTERN
